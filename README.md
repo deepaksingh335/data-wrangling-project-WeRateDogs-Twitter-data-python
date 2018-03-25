@@ -4,9 +4,13 @@ Real-world data rarely comes clean. Using Python and its libraries, I will gathe
 
 The following packages (i.e. libraries) are being used in the project. 
     pandas
+    
     numpy
+    
     requests
+    
     tweepy
+    
     json
 
 Goal: wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for "Wow!"-worthy analyses and visualizations.
@@ -15,7 +19,9 @@ My tasks in this project are as follows:
 
 Data wrangling, which consists of:
         Gathering data
+        
         Assessing data
+        
         Cleaning data
         
 Storing, analyzing, and visualizing your wrangled data
