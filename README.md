@@ -3,6 +3,7 @@
 Real-world data rarely comes clean. Using Python and its libraries, I will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. This is called data wrangling. The wrangling efforts are documented in a Jupyter Notebook, plus they are also showcase them through analyses and visualizations using Python (and its libraries) and/or SQL.
 
 The following packages (i.e. libraries) are being used in the project. 
+    
     pandas
     
     numpy
@@ -17,15 +18,17 @@ Goal: wrangle WeRateDogs Twitter data to create interesting and trustworthy anal
 
 My tasks in this project are as follows:
 
-Data wrangling, which consists of:
+1) Data wrangling, which consists of:
+        
         Gathering data
         
         Assessing data
         
         Cleaning data
         
-Storing, analyzing, and visualizing your wrangled data
-Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations
+2) Storing, analyzing, and visualizing your wrangled data
+
+3) Reporting on (i)  data wrangling efforts and (ii) data analyses and visualizations
 
 Data Sources for this Project:
 
